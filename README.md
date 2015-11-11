@@ -13,7 +13,7 @@ Eliminate error and server log entries that get thrown by missing favicons, espe
 
 2. Add the service provider entry in `config\app.php`:
   ```php
-          GeneaLabs\LaravelAppleseed\LaravelAppleseedServiceProvider::class,
+  GeneaLabs\LaravelAppleseed\LaravelAppleseedServiceProvider::class,
   ```
 
 ## Usage
