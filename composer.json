@@ -1,0 +1,20 @@
+{
+  "name": "genealabs/laravel-appleseed",
+  "description": "Prevent the pesky missing-favicon error log entries, and return 404 if they don't exist.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mike Bronner",
+      "email": "hello@genealabs.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "GeneaLabs\\LaravelAppleseed\\": "app/"
+    }
+  },
+  "require": {
+    "php": ">=5.5.9",
+    "illuminate/support": "~5.1"
+  }
+}
