@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/GeneaLabs/laravel-appleseed-tests.svg)](https://travis-ci.org/GeneaLabs/laravel-appleseed-tests) [![Coverage Status](https://coveralls.io/repos/GeneaLabs/laravel-appleseed-tests/badge.svg?branch=master&service=github)](https://coveralls.io/github/GeneaLabs/laravel-appleseed-tests?branch=master)
 
-# Laravel Appleseed
+![appleseed](https://cloud.githubusercontent.com/assets/1791050/11131698/cb6e8396-8940-11e5-8448-7fb94aaed51c.jpg)
+
 ## Reasoning
 Eliminate error and server log entries that get thrown by missing favicons, especially the apple-touch-icon.png errors.
 
