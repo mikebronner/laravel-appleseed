@@ -1,6 +1,7 @@
-![appleseed](https://cloud.githubusercontent.com/assets/1791050/11131698/cb6e8396-8940-11e5-8448-7fb94aaed51c.jpg)
-
 # Appleseed for Laravel
+
+![Appleseed for Laravel masthead image.](https://repository-images.githubusercontent.com/46007656/88c36100-f297-11e9-8bb9-c0917e799f0f)
+
 [![Join the chat at https://gitter.im/GeneaLabs/laravel-appleseed](https://badges.gitter.im/GeneaLabs/laravel-appleseed.svg)](https://gitter.im/GeneaLabs/laravel-appleseed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/GeneaLabs/laravel-appleseed-tests.svg)](https://travis-ci.org/GeneaLabs/laravel-appleseed-tests) [![Coverage Status](https://coveralls.io/repos/GeneaLabs/laravel-appleseed-tests/badge.svg?branch=master&service=github)](https://coveralls.io/github/GeneaLabs/laravel-appleseed-tests?branch=master)
 
